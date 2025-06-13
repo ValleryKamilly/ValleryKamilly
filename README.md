@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Animação para README] (https://github.com/ValleryKamilly/assets-projeto/blob/main/assets/apresentacaoProcreate.gif?raw=true) 
+
 <!--
 **ValleryKamilly/ValleryKamilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
